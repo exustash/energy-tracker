@@ -1,1 +1,1 @@
-# nergy-tracker
+# energy-tracker
